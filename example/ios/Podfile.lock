@@ -1,0 +1,22 @@
+PODS:
+  - barometer_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - barometer_plugin (from `.symlinks/plugins/barometer_plugin/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  barometer_plugin:
+    :path: ".symlinks/plugins/barometer_plugin/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  barometer_plugin: a439c8bca216477ee9d9a20f850caa5dc39957ee
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 083258d7f5e80b42ea9bfee905fe93049bc04c64
+
+COCOAPODS: 1.8.4
